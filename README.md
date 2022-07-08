@@ -8,4 +8,4 @@ This script will add a button next to "suscribe" one that will redirect you to a
 
 
 ## How to install
-Click on this [link](https://github.com/Dasemu/Youtube-Multi-Downloader/raw/main/Youtube%20Multi%20Downloader.user.js)
+Click on this [link](https://github.com/Dasemu/Youtube-Multi-Downloader/raw/main/Youtube%20Multi%20Downloader.user.js) (you need to have a userscripts manager as Tampermonkey or Violentmonkey).
